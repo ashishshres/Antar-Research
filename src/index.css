@@ -126,6 +126,10 @@ main .video video {
     padding: 2rem;
 }
 
+#services {
+    scroll-margin-top: 80px;
+}
+
 .services h2 {
     text-transform: uppercase;
     font-size: 2rem;
